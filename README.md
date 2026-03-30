@@ -25,3 +25,8 @@ RF - 72%
 Tuning results also got 
 The low accuracy is due to disparity in data distribution i think 
 Its not a very big issue though as we need to create our own data from the sensors after calibrating them.
+
+
+Updates -
+
+Created an ensembled model which has around 85% accuracy
