@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/pieush/Desktop/Root/Sign-to-Speech/mlruns/4/models/m-743f987d8a1f4ccc910f23f52c945d9a/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.4
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.0.5
+mlflow_version: 3.7.0
+model_id: m-743f987d8a1f4ccc910f23f52c945d9a
+model_size_bytes: 11669951
+model_uuid: m-743f987d8a1f4ccc910f23f52c945d9a
+prompts: null
+run_id: 6932d47589764b838da8b85bcb534997
+utc_time_created: '2026-03-05 09:42:39.636787'

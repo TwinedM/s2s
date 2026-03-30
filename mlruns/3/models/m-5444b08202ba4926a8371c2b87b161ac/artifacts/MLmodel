@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/pieush/Desktop/Root/Sign-to-Speech/mlruns/3/models/m-5444b08202ba4926a8371c2b87b161ac/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.7.0
+model_id: m-5444b08202ba4926a8371c2b87b161ac
+model_size_bytes: 900914178
+model_uuid: m-5444b08202ba4926a8371c2b87b161ac
+prompts: null
+run_id: 3e407297a2514bf188378fbaaf10289d
+utc_time_created: '2026-03-05 09:33:36.378868'

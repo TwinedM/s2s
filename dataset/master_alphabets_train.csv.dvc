@@ -1,0 +1,5 @@
+outs:
+- md5: 9db2727bc502e4a5b5bc0b8eb65002cf
+  size: 154367975
+  hash: md5
+  path: master_alphabets_train.csv

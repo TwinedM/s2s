@@ -1,0 +1,5 @@
+outs:
+- md5: b1fdb15a799e1d693617fe33887a5501
+  size: 38982354
+  hash: md5
+  path: master_alphabets_test.csv
